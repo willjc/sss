@@ -1,0 +1,14 @@
+setup.py
+imgspider/__init__.py
+imgspider/items.py
+imgspider/middlewares.py
+imgspider/pipelines.py
+imgspider/runimg.py
+imgspider/settings.py
+imgspider/spiders/__init__.py
+imgspider/spiders/a360img.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
